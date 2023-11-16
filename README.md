@@ -7,9 +7,9 @@
 [![Demo Público Externo](https://img.shields.io/badge/Demo_Público_Externo-Aqui-lightgreen)](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-b63014ca-b1d6-4e71-aca8-9b2ec1601c61%3A%3Ad25b661e-4879-4bd6-b530-4e301aed2bef&integrationID=a715c8a6-ca0d-4519-a67f-48b657fd9d75&region=us-south&serviceInstanceID=b63014ca-b1d6-4e71-aca8-9b2ec1601c61)
 ![Version](https://img.shields.io/badge/Version-1.0-black)
 
-[![Pitch](https://lexios.jusblog.com/assets/share/poster.png)](https://youtu.be/mqz57WYkK9Y)
+[![Pitch](https://lexios.jusblog.com/assets/share/poster.png)](https://youtu.be/AkIRBgEs4u4)
 
-👀 Assista Lexios [Vídeo](https://youtu.be/mqz57WYkK9Y)
+👀 Assista Lexios [Vídeo](https://youtu.be/AkIRBgEs4u4)
 
 # LEXIOS: A Lei Ao Seu Alcance
 
@@ -471,6 +471,8 @@ um teste técnico quanto uma aventura intelectual. Professor Cruvinel, você é 
 Estou vibrando de empolgação para levar adiante cada lição aprendida neste projeto para a minha carreira futura como Bacharel em Direito, pois este projeto não foi apenas um marco acadêmico; foi um salto gigantesco na minha jornada pessoal e profissional, eu sinto a energia disso.
 
 ### Anexos
+
+Todos os arquivos da entrega do Sprint 02 (15/11/23), como: MVP, logomarca, Canvas atualizado e pitch (video e apresentacao) encontram-se disponíveis no link abaixo:
 
 https://drive.google.com/drive/folders/1ZzFNYlSysNyGMcHCQdmToBRceQI3afYr?usp=drive_link
 
