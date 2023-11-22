@@ -5,11 +5,12 @@
 ![Assistente Virtual Jurídico](https://img.shields.io/badge/Assistente_Virtual-Jurídico-df2a2a)
 [![Demo Público Interno](https://img.shields.io/badge/Demo_Público_Interno-Aqui-royalblue)](https://lexios.jusblog.com/)
 [![Demo Público Externo](https://img.shields.io/badge/Demo_Público_Externo-Aqui-lightgreen)](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-b63014ca-b1d6-4e71-aca8-9b2ec1601c61%3A%3Ad25b661e-4879-4bd6-b530-4e301aed2bef&integrationID=a715c8a6-ca0d-4519-a67f-48b657fd9d75&region=us-south&serviceInstanceID=b63014ca-b1d6-4e71-aca8-9b2ec1601c61)
-![Version](https://img.shields.io/badge/Version-1.0-black)
+![Versãon](https://img.shields.io/badge/Versão-1.0-black)
+[![Licença MIT](https://img.shields.io/badge/Licença-MIT-success)](https://github.com/FredSRocha/Lexios/blob/main/LICENSE)
 
-[![Pitch](https://lexios.jusblog.com/assets/share/poster.png)](https://youtu.be/AkIRBgEs4u4)
+[![Pitch](https://lexios.jusblog.com/assets/share/poster.png)](https://youtu.be/4t6Mq7rlKk4)
 
-👀 Assista Lexios [Vídeo](https://youtu.be/AkIRBgEs4u4)
+👀 Assista Lexios [Vídeo](https://youtu.be/4t6Mq7rlKk4)
 
 # LEXIOS: A Lei Ao Seu Alcance
 
@@ -321,7 +322,7 @@ A pergunta base ativa a "action" do assistente virtual treinado para realizar um
 - "Comprei um produto e ele não foi entregue"
 - "O meu nome foi negativado no SERASA"
 
-**Direito do Consumidor**
+**Direito Penal**
 
 - "Fui vítima de furto"
 - "Fui vítima de roubo"
@@ -336,7 +337,7 @@ A pergunta base ativa a "action" do assistente virtual treinado para realizar um
 
 ___
 
-**Estudo de Caso: Divórcio (Direito de Família)**
+**Estudo de Caso: Divórcio (Direito de Família - Fluxo de Conversação)**
 Nome completo: ...
 CPF: ...
 Identidade: ...
@@ -476,9 +477,7 @@ Todos os arquivos da entrega do Sprint 02 (15/11/23), como: MVP, logomarca, Canv
 
 https://drive.google.com/drive/folders/1ZzFNYlSysNyGMcHCQdmToBRceQI3afYr?usp=drive_link
 
-## Licença
-
-MIT.
+---
 
 ![Logo](https://lexios.jusblog.com/assets/share/logo-black-croped.png)
 
